@@ -85,7 +85,7 @@ Line organization (including only members from IT)
 | 6 | External Dependencies Board | Dependency of the teams on other teams within / outside of the TRAIN. |
 | 7 | Risk Board | Contains all the risks and their status. |
 | 8 | Impedements Board | Contains all active impediments in the ART. |
-| 9 | Mummy Mystery Masters, Space Bar Cowboys, Elf-made Millionaires, Entire Group | Holiday plans of the ART. |
+| 9 | Mummy Mystery Masters, Space Bar Cowboys, Elf-made Millionaires, Management Team, Entire Group | Holiday plans of the ART. |
 
 ### Team Boards
 
