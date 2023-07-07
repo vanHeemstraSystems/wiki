@@ -78,7 +78,16 @@ Line organization (including only members from IT)
 | # | Link | Usage |
 | -- | -- | -- |
 | 1 | Year Planning | Planned meetings/evenst (PIPE, I&A, reviews etc.) |
+| 2 | High Level Structure | Contains overview of all features, underlying stories, story points etc. |
+| 3 | Capability Board | Overview of all the capabilities of the TRAIN-Owned by CPO. |
+| 4 | 6 PI Rolling Forecast | Product Breakdown Structure contains the 6 PI Rolling Forecast. |
+| 5 | 6 Sprint Rolling Forecast | used for discussion during the ART sync. Contains overview of 6 Sprints. |
+| 6 | External Dependencies Board | Dependency of the teams on other teams within / outside of the TRAIN. |
+| 7 | Risk Board | Contains all the risks and their status. |
+| 8 | Impedements Board | Contains all active impediments in the ART |
+| 9 | Mummy Mystery Masters, Space Bar Cowboys, Elf-made Millionaires, Entire Group | Holiday plans of the ART |
 
+### Team Boards
 
 
 
