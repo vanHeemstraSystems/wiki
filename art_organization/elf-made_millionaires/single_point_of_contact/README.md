@@ -16,7 +16,7 @@ General notes:
 --- Gently remind the SPOC that there is an issue that needs to be handled.
 --- Help the SPOC to resolve issues:
 
-| Sprint | Week Number | Dates | SPOC for this week | Demos |
+| Sprint | Week Number | Dates | SPOC for this Week | Demos |
 | -- | -- | -- | -- | -- |
 | Elf-made Millionaires YYYY.Q-Sprint# | #1<br>#2 | DD-MMM-YYY - DD-MMM-YYYY<br>DD-MMM-YYY - DD-MMM-YYYY | @Shiro Alfredo | |
 | Elf-made Millionaires YYYY.Q-Sprint# | #3<br>#4 | DD-MMM-YYY - DD-MMM-YYYY<br>DD-MMM-YYY - DD-MMM-YYYY | @Hetepheres Greta | |
