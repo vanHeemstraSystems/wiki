@@ -84,20 +84,22 @@ Line organization (including only members from IT)
 | 5 | 6 Sprint Rolling Forecast | Used for discussion during the ART sync. Contains overview of 6 Sprints. |
 | 6 | External Dependencies Board | Dependency of the teams on other teams within / outside of the TRAIN. |
 | 7 | Risk Board | Contains all the risks and their status. |
-| 8 | Impedements Board | Contains all active impediments in the ART |
-| 9 | Mummy Mystery Masters, Space Bar Cowboys, Elf-made Millionaires, Entire Group | Holiday plans of the ART |
+| 8 | Impedements Board | Contains all active impediments in the ART. |
+| 9 | Mummy Mystery Masters, Space Bar Cowboys, Elf-made Millionaires, Entire Group | Holiday plans of the ART. |
 
 ### Team Boards
 
 | # | Board | Usage |
 | -- | -- | -- |
-| 1 | Mummy Mystery Masters | Mummy Mystery Masters Scrum Board |
-| 2 | Space Bar Cowboys | Space Bar Cowboys Scrum Board |
-| 3 | Elf-made Millionaires | Elf-made Millionaires Scrum Board |
+| 1 | Mummy Mystery Masters | Mummy Mystery Masters Scrum Board. |
+| 2 | Space Bar Cowboys | Space Bar Cowboys Scrum Board. |
+| 3 | Elf-made Millionaires | Elf-made Millionaires Scrum Board. |
 
 ### ART Boards
 
-
-
-
-More ...
+| # | Board | Usage |
+| -- | -- | -- |
+| 1 | ART Quality Dashboard | Monitor quality of the issues on the various boards, reporting on missing feature links and such. |
+| 2 | EINSTEIN | EINSTEIN ART Architecture team Kanban Board |
+| 3 | Leadership Kanban | Contains the stories that are actionable for the leadership team, derived from the Leadership improvement Board. Used every week for the status update meeting of ART Leadership. |
+| 4 | Problem tasks | Problem tasks for the Teams in this TRAIN. |
