@@ -9,4 +9,6 @@
 | 3 | Engineer | Shiro Alfredo | |
 | 4 | Engineer | Hetepheres Greta | |
 
-More ...
+## Availability
+
+The Team's Holiday Planning.
