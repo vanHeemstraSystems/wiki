@@ -28,13 +28,21 @@ Based on "Random Team Names" at https://teambuilding.com/blog/team-names
 ### Stakeholders
 
 - Agile Coach (AC): Wiljahelmaz Aspasia
+
 - Business Owner (BO):
+  
 --- Product A: Diodoros Pavica
+  
 --- Product B: Isagani Mamadou
+
 --- Product C: Magda Zvonimira
+
 - Epic Owner (EO):
+  
 --- Project A: Janka Willka
+  
 --- Project B: Clemente Suzanna
+
 --- Project C: Ilana Muirne
 
 ### More Information
