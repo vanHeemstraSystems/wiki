@@ -57,7 +57,7 @@ Based on "Random User / Photos" at https://randomuser.me/photos
 
 Agile Release Train (including members of X, Y, Z)
 
-- dl-art-abc@acme.com (e.g. *dl-art-elf-made-millionaires@acme.com*): All members of the ART (e.g. *Elf-made Millionaires*)
+- dl-art-abc@acme.com (e.g. *dl-art-elfmademillionaires@acme.com*): All members of the ART (e.g. *Elf-made Millionaires*)
 - dl-art-abc-triangle@acme.com: CPO, RTE, SA
 - dl-art-abc-leadership@acme.com: Members of the ART Leadership (POs, SMs, CPO, RTE, SA)
 - dl-art-abc-productowners@acme.com: All POs and CPO
