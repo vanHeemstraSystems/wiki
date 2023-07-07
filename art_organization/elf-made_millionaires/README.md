@@ -20,5 +20,6 @@ The Team's Holiday Planning.
 - [Products](./products/)
 - [Reference Stories](./reference_stories/)
 - [Single Point of Contact](./single_point_of_contact/)
+- [Stakeholder Map](./stakeholder_map/)
 
 More ...
