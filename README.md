@@ -10,13 +10,19 @@ Based on "Random Team Names" at https://teambuilding.com/blog/team-names
 ### ART Leadership
 
 - Traige
+  
 --- Chief Product Owner (CPO): Nnenna Connell
+
 --- Release Train Engineer (RTE):  Prosenjit Cássia
+
 --- System Architect (SA): Donat Shay
 
 - Product Owner (PO):
+  
 --- Mummy Mystery Masters: Brendan Bohumila
+
 --- Space Bar Cowboys: Juris Bjǫrn
+
 --- Elf-made Millionaires: Norton Vasilijs
 
 ### Stakeholders
